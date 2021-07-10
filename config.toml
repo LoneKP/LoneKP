@@ -1,0 +1,13 @@
+baseURL = "https://www.brainstormer.online/"
+languageCode = "en-us"
+title = "Brainstormer.online"
+
+enableEmoji = true
+
+[[menu.main]]
+  name = "About"
+  url = "/about"
+
+[[menu.main]]
+  name = "Blog"
+  url = "/blog"
