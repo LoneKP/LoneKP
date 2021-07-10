@@ -1,29 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-  <title>Brainstormer.online</title>
-  <link>https://www.brainstormer.online/</link>
-  <description>Recent content on Brainstormer.online</description>
-  <generator>Hugo -- gohugo.io</generator>
-  <language>en-us</language>
-  <lastBuildDate>Fri, 09 Jul 2021 21:19:41 +0200</lastBuildDate><atom:link href="https://www.brainstormer.online/index.xml" rel="self" type="application/rss+xml" />
-  <item>
-    <title>Blogpost1</title>
-    <link>https://www.brainstormer.online/blog/blogpost1/</link>
-    <pubDate>Fri, 09 Jul 2021 21:19:41 +0200</pubDate>
+    <title>Brainstormer.online</title>
+    <link>https://www.brainstormer.online/</link>
+    <description>Recent content on Brainstormer.online</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Jul 2021 12:54:52 +0200</lastBuildDate><atom:link href="https://www.brainstormer.online/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post1</title>
+      <link>https://www.brainstormer.online/blog/posts/post1/</link>
+      <pubDate>Sat, 10 Jul 2021 12:54:52 +0200</pubDate>
+      
+      <guid>https://www.brainstormer.online/blog/posts/post1/</guid>
+      <description></description>
+    </item>
     
-    <guid>https://www.brainstormer.online/blog/blogpost1/</guid>
-    <description></description>
-  </item>
-  
-  <item>
-    <title>About</title>
-    <link>https://www.brainstormer.online/about/about/</link>
-    <pubDate>Fri, 09 Jul 2021 21:17:20 +0200</pubDate>
+    <item>
+      <title>Post2</title>
+      <link>https://www.brainstormer.online/blog/posts/post2/</link>
+      <pubDate>Sat, 10 Jul 2021 12:54:52 +0200</pubDate>
+      
+      <guid>https://www.brainstormer.online/blog/posts/post2/</guid>
+      <description></description>
+    </item>
     
-    <guid>https://www.brainstormer.online/about/about/</guid>
-    <description>This is an about page</description>
-  </item>
-  
+    <item>
+      <title>About Brainstormer</title>
+      <link>https://www.brainstormer.online/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.brainstormer.online/about/</guid>
+      <description>Hi 👋
+ I&amp;rsquo;m Lone, and I am the maker of this tool.
+ I reside in Copenhagen, where I work with product management. In that role, I often facilitate different kinds of creative processes, which is something I really enjoy!
+ During the covid-19 lockdown, when everything suddenly had to be online, I realized how much extra effort you have to put into remote facilitation, and I wanted to do something about it!</description>
+    </item>
+    
   </channel>
 </rss>
