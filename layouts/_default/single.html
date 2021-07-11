@@ -1,11 +1,13 @@
 {{ define "main" }}
   <div class="flex-col flex bg-white p-12 mb-4 h-full">
   {{ partial "logo.html" }}
-  <div class="p-12 text-4xl lg:text-base text-justify">
+  <div class="pt-12 px-12">
+    {{ partial "breadcrumbs.html" . }}
+  </div>
+  <div class="px-12 pb-12 text-4xl lg:text-base text-justify text-links">
     <h1 class="text-7xl lg:text-5xl font-semibold leading-relaxed uppercase mb-8">{{ .Title }}</h1>
     {{ .Content }}
     {{ partial "social.html" }}
   </div>
   </div>
 {{ end }}
-

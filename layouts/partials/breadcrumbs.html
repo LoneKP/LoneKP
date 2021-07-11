@@ -1,0 +1,8 @@
+<div class="text-base lg:text-xs">
+  <a class="hover:underline" href="/">Home</a>
+  {{ range (split .RelPermalink "/") }}
+      {{ if gt (len . ) 0 }}
+          > <a class="hover:underline" href="/{{ . }}">{{ humanize . }}</a>
+      {{ end }}
+  {{ end }}
+</div>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Brainstormer.online</title>
+    <link>https://lonekp.github.io/blog/</link>
+    <description>Recent content in Blog on Brainstormer.online</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Jul 2021 12:54:52 +0200</lastBuildDate><atom:link href="https://lonekp.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Are you missing anything? 👩‍💻</title>
+      <link>https://lonekp.github.io/blog/are-you-missing-anything/</link>
+      <pubDate>Sat, 10 Jul 2021 12:54:52 +0200</pubDate>
+      
+      <guid>https://lonekp.github.io/blog/are-you-missing-anything/</guid>
+      <description>I have created Brainstormer to make it easier for YOU to facilitate brainstorms.
+ Maybe you tried it out, and something is not quite fitting with how you would like to brainstorm.
+ Well, let&amp;rsquo;s just create the tool as you would like it! There are several ways to how you can be a part of that.
+ Contributing Brainstormer is open for everyone to contribute to. If you want to take part, you can find the repository on GitHub.</description>
+    </item>
+    
+    <item>
+      <title>BRAINSTORMER IS OPEN SOURCE! 🎉</title>
+      <link>https://lonekp.github.io/blog/brainstormer-is-open-source/</link>
+      <pubDate>Sun, 04 Jul 2021 12:54:52 +0200</pubDate>
+      
+      <guid>https://lonekp.github.io/blog/brainstormer-is-open-source/</guid>
+      <description>Brainstormer is all about ideas. And I am sure that everybody who uses Brainstormer has plenty of them.
+ I want to invite everyone to join the development of this project.
+ There are two ways for that to happen:
+ Help plan what should be developed next, and develop it! Get the code and start remixing it to fit your own needs. You - are free to host your remixed project somewhere else as long as you also make your changes open source.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -32,7 +32,7 @@ What do you think? 💖
 
 &nbsp;
 
-Let me know what I can do to improve Brainstormer.
+[Let me know what I can do to improve Brainstormer](mailto:brainstormer.online@gmail.com).
 
 &nbsp;
 

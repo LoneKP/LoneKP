@@ -1,0 +1,22 @@
+{{ define "main" }}
+<div class="flex-col flex bg-white p-12 mb-4 h-full">
+  {{ partial "logo.html" }}
+  <div class="p-12 text-4xl lg:text-base text-justify">
+      {{ partial "breadcrumbs.html" . }}
+      <h1>{{ .Title }}</h1>
+      {{ .Content }}
+      {{ range .Pages }}
+      <div class="flex flex-col border-dashed border-b-2 border-gray-100 p-12 hover:bg-light-greeny">
+        <a href="{{ .Permalink }}">
+          <div class="flex flex-row justify-between items-center mb-2 text-sm">
+            <h2 class="inline-flex border-solid border-light-greeny-darker border-b-8 mt-2">{{ .Title }}</h2>
+            <p>{{ .Date.Format "January 2, 2006"  }}</p>
+          </div>
+          <p>{{ .Summary | plainify | truncate 180 }}</p>
+        </a>
+      </div>
+      {{ end }}
+      {{ partial "social.html" }}
+  </div>
+</div>
+{{ end }}
