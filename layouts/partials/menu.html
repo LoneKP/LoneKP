@@ -1,7 +1,8 @@
 <div class="text-3xl lg:text-base -mb-12 lg:-mb-2 mt-4 mr-8">
   <div class="flex flex-row space-x-12 lg:space-x-8 justify-end lg:text-black text-black">
+    {{ $myPage := humanize .File.Dir }}
     {{ range .Site.Menus.main }}
-    <a href="{{ .URL }}" class="my-shadow-sm lg:hover:bg-light-greeny lg:active:bg-light-greeny-darker bg-white p-4 lg:py-0 lg:px-2">{{ .Name }}</a>
+    <a href="{{ .URL }}" class='{{ if eq $myPage .Name }} bg-light-greeny {{end}} my-shadow-sm lg:hover:bg-light-greeny lg:active:bg-light-greeny-darker bg-white p-4 lg:py-0 lg:px-2'>{{ .Name }}</a>
     {{ end }}
   </div>
   </div>
