@@ -2,6 +2,30 @@
 @tailwind components;
 @tailwind utilities;
 
+@layer utilities {
+  @variants responsive {
+    .bg-dots {
+      background-image:
+        radial-gradient(#ffffff 14%, transparent 0),
+        radial-gradient(#ffffff 14%, transparent 0);
+      background-size: 60px 60px;
+      background-position: 0 0, 0px 0px;
+      }
+    
+      .bg-dots-mobile {
+      background-image:
+        radial-gradient(#ffffff 12%, transparent 0),
+        radial-gradient(#ffffff 12%, transparent 0);
+      background-size: 24px 24px;
+      background-position: 0 0, 0px 0px;
+      }
+
+      .bg-red-500 {
+
+      }
+  }
+}
+
 .my-container {
   @apply mx-auto px-4 xl:px-0 lg:max-w-screen-lg xl:max-w-screen-xl
 }
@@ -43,14 +67,6 @@ ul {
   background-image:
     radial-gradient(#cbbcbc 9%, transparent 0),
     radial-gradient(#cbbcbc 9%, transparent 0);
-  background-size: 60px 60px;
-  background-position: 0 0, 0px 0px;
-  }
-  
-  .bg-dots {
-  background-image:
-    radial-gradient(#ffffff 14%, transparent 0),
-    radial-gradient(#ffffff 14%, transparent 0);
   background-size: 60px 60px;
   background-position: 0 0, 0px 0px;
   }
