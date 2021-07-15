@@ -14,9 +14,9 @@
     
       .bg-dots-mobile {
       background-image:
-        radial-gradient(#ffffff 12%, transparent 0),
-        radial-gradient(#ffffff 12%, transparent 0);
-      background-size: 24px 24px;
+        radial-gradient(#ffffff 10%, transparent 0),
+        radial-gradient(#ffffff 10%, transparent 0);
+      background-size: 34px 34px;
       background-position: 0 0, 0px 0px;
       }
 
@@ -27,7 +27,7 @@
 }
 
 .my-container {
-  @apply mx-auto px-4 xl:px-0 lg:max-w-screen-lg xl:max-w-screen-xl
+  @apply mx-auto px-2 xl:px-0 lg:max-w-screen-lg xl:max-w-screen-xl
 }
 
 h1 {
