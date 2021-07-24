@@ -31,15 +31,15 @@
 }
 
 h1 {
-  @apply text-7xl lg:text-5xl font-semibold leading-relaxed uppercase mb-8
+  @apply text-xl lg:text-5xl font-semibold leading-relaxed uppercase mb-8
 }
 
 h2 {
-  @apply font-bold mb-2 text-6xl lg:text-4xl uppercase
+  @apply font-bold mb-2 text-xl lg:text-4xl uppercase
 }
 
 h3 {
-  @apply text-2xl text-gray-600 mb-2
+  @apply text-lg lg:text-2xl text-gray-600 mb-2
 }
 
 h4 {
