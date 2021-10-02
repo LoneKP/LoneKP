@@ -19,7 +19,7 @@ There are two ways for that to happen:
 
 &nbsp;
 
-You can find the source code and more about how to contribute at [GitHub]((https://github.com/LoneKP/brainstormer)) (you will need to create a GitHub account)
+You can find the source code and more about how to contribute at [GitHub](https://github.com/LoneKP/brainstormer) (you will need to create a GitHub account)
 
 &nbsp;
 
