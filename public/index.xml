@@ -43,5 +43,16 @@
  During the covid-19 lockdown, when everything suddenly had to be online, I realized how much extra effort you have to put into remote facilitation, and I wanted to do something about it!</description>
     </item>
     
+    <item>
+      <title>Privacy Policy</title>
+      <link>https://www.brainstormer.online/privacy-policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.brainstormer.online/privacy-policy/</guid>
+      <description>Last updated Nov 6, 2021
+ Let us go through which data footprint you leave by using Brainstormer, and how your data is treated and stored!
+ Your data When you use brainstormer your IP address is saved temporarily, but maximum 6 months. With your IP address you’re letting me know from where in the world you are using Brainstormer, and learning the demographics of Brainstormer’s users is the only reason I store your IP address temporarily.</description>
+    </item>
+    
   </channel>
 </rss>
