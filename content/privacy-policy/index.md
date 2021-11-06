@@ -33,7 +33,7 @@ I try to understand how you use Brainstormer, by tracking which buttons you clic
 
 ### Where is your data stored?
 
-I use Heroku to host the Brainstormer app. Heroku is, as you can read in their [security policy](https://www.heroku.com/policy/security), committed to keeping customer’s data safe. 
+I use Heroku to host the Brainstormer app. Heroku is, as you can read in their [security policy](https://www.heroku.com/policy/security), committed to keeping customers' data safe. 
 
 &nbsp;
 
