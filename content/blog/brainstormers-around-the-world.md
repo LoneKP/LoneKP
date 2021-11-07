@@ -3,11 +3,11 @@ title: "Brainstormers around the world 🌏"
 date: 2021-011-06T11:34:52+02:00
 draft: false
 ---
-Reviews, video tutorials and articles about Brainstormer are popping up. 
+Reviews, video tutorials and articles about [Brainstormer](https://www.brainstormer.online/) are popping up. 
 
 &nbsp;
 
-It makes me very happy to see people having productive brainstorming session and appreciating Brainstormer's ease of use all around the world!
+It makes me very happy to see people having productive brainstorming session all around the world!
 
 &nbsp;
 
@@ -24,7 +24,7 @@ Just look at these videos that facilitators from different parts of the world, a
 
 &nbsp;
 
-Unfortunately I don't understand Korean, but luckily Youtube can help with translating. This video gives a few examples of how brainstorming can solve problems in new and diverse ways. It also shows how to do exactly that in Brainstormer: 
+Unfortunately I don't understand Korean, but luckily Youtube can help with translating. This video gives a few examples of how brainstorming can solve problems in new and diverse ways. It also shows how to do exactly that in [Brainstormer](https://www.brainstormer.online/): 
 
 &nbsp;
 
@@ -58,7 +58,7 @@ If you understand portuguise, [the Onde eu Clico youtube channel](https://www.yo
 
 &nbsp;
 
-The creator of the channel found Brainstormer to be fitting for teachers of the future and created this review:
+The creator of the channel found [Brainstormer](https://www.brainstormer.online/) to be fitting for teachers of the future and created this review:
 
 &nbsp;
 
@@ -74,7 +74,7 @@ The creator of the channel found Brainstormer to be fitting for teachers of the 
 
 ## More reviews
 
-Here are some more resources about Brainstormer. Take a look! These are all really interesting sources of inspiration for ways to use technology to learn together. 
+Here are some more resources about [Brainstormer](https://www.brainstormer.online/). Take a look! These are all really interesting sources of inspiration for ways to use technology to learn together. 
 
 &nbsp;
 
@@ -104,7 +104,7 @@ Coming up with ideas together is a universal way to learn. It's really not about
 
 &nbsp;
 
-Brainstormer has been used in all these corners of the world, and that is truly amazing! 
+[Brainstormer](https://www.brainstormer.online/) has been used in all these corners of the world, and that is truly amazing! 
 
 &nbsp;
 
