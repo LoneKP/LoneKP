@@ -12,3 +12,15 @@ enableRobotsTXT = true
 [[menu.main]]
   name = "Blog"
   url = "/blog"
+
+[params]
+    Description = "Easy facilitation of online brainstorming sessions"
+    Image = "/images/some_image.png"
+    sitename = "Brainstormer"
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    languageCode = "en-us"
+    weight = 1
+     

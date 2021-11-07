@@ -3,25 +3,35 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <link rel="shortcut icon" type="image/x-icon" href="https://www.brainstormer.online/images/favicon.png">
 
-<!-- Primary Meta Tags -->
-<meta name="title" content="Come up with great ideas together!">
-<meta name="description" content="Easy facilitation of online brainstorming sessions">
 
-<!-- Open Graph / Facebook -->
-<meta property="og:type" content="website">
-<meta property="og:url" content="https://www.brainstormer.online/">
-<meta property="og:title" content="Come up with great ideas together!">
-<meta property="og:description" content="Easy facilitation of online brainstorming sessions">
-<meta property="og:image" content="https://www.brainstormer.online/images/some_image.png">
+<title itemprop="name">{{if eq .Title .Site.Title }} {{ .Site.Title}} {{ else }} {{ .Title}} | {{ .Site.Title }} {{ end }}</title>
+<meta property="og:title" content="{{if eq .Title .Site.Title }} {{ .Site.Title}} {{ else }} {{ .Title}} | {{ .Site.Title }} {{ end }}" />
+<meta name="twitter:title" content="{{if eq .Title .Site.Title }} {{ .Site.Title}} {{ else }} {{ .Title}} | {{ .Site.Title }} {{ end }}" />
+<meta itemprop="name" content="{{if eq .Title .Site.Title }} {{ .Site.Title}} {{ else }} {{ .Title}} | {{ .Site.Title }} {{ end }}" />
+<meta name="application-name" content="{{if eq .Title .Site.Title }} {{ .Site.Title}} {{ else }} {{ .Title}} | {{ .Site.Title }} {{ end }}" />
+<meta property="og:site_name" content="{{if eq .Title .Site.Title }} {{ .Site.Title}} {{ else }} {{ .Title}} | {{ .Site.Title }} {{ end }}" />
 
-<!-- Twitter -->
-<meta property="twitter:card" content="summary_large_image">
-<meta property="twitter:url" content="https://www.brainstormer.online/">
-<meta property="twitter:title" content="Come up with great ideas together!">
-<meta property="twitter:description" content="Easy facilitation of online brainstorming sessions">
-<meta property="twitter:image" content="https://www.brainstormer.online/images/some_image.png">
+<meta name="description" content="{{if .Description }}{{ .Description }}{{else}}{{ .Site.Params.Description}} {{end}}" />
+<meta itemprop="description" content="{{if .Description }}{{ .Description }}{{else}}{{ .Site.Params.Description}} {{end}}" />
+<meta property="og:description" content="{{if .Description }}{{ .Description }}{{else}}{{ .Site.Params.Description}} {{end}}" />
+<meta name="twitter:description" content="{{if .Description }}{{ .Description }}{{else}}{{ .Site.Params.Description}} {{end}}" />
 
-{{ partial "meta" . }}
+<base href="{{ .Permalink }}">
+<link rel="canonical" href="{{ .Permalink }}" itemprop="url" /> 
+<meta name="url" content="{{ .Permalink }}" />
+<meta name="twitter:url" content="{{ .Permalink }}" /> 
+<meta property="og:url" content="{{ .Permalink }}" />
+
+<meta property="og:locale" content="{{ .Language.Lang }}">
+<meta name="language" content="{{ .Language.LanguageName }}">
+{{ range .AllTranslations }}
+  <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}" title="{{ .Language.LanguageName }}">
+{{ end }}
+
+<meta itemprop="image" content="{{ .Site.Params.Image | absURL }}" />
+<meta property="og:image" content="{{ .Site.Params.Image | absURL }}" /> 
+<meta name="twitter:image" content="{{ .Site.Params.Image | absURL }}" />
+<meta name="twitter:image:src" content="{{ .Site.Params.Image | absURL }}" /> 
 
 {{ $styles := resources.Get "css/main.css" | postCSS }}
 

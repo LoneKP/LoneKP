@@ -1,7 +1,7 @@
 ---
 title: "BRAINSTORMER IS OPEN SOURCE! 🎉"
 date: 2021-07-04T12:54:52+02:00
-description: "I have open sourced Brainstormer, to make it easier for everyone to chip in with their ideas."
+description: "A little bit about why Brainstormer is open source"
 draft: false
 ---
 
