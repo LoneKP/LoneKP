@@ -2,6 +2,7 @@
 title: "Brainstormers around the world 🌏"
 date: 2021-011-06T11:34:52+02:00
 description: "A quick look into reviews, videos and tutorials that are being shared about Brainstormer"
+image: "images/brainstormers-around-the-world.jpg"
 draft: false
 ---
 Reviews, video tutorials and articles about [Brainstormer](https://www.brainstormer.online/) are popping up. 
