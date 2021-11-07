@@ -1,5 +1,5 @@
 ---
-title: "People are brainstorming around the world 🌏"
+title: "Brainstorming around the world 🌏"
 date: 2021-011-06T11:34:52+02:00
 draft: false
 ---
@@ -111,6 +111,20 @@ Keep asking questions and brainstorming answers!
 &nbsp;
 
 🇧🇷 🇨🇦 🇰🇷 🇩🇪 🇫🇷 🇮🇹 🇮🇳 🇹🇭 🇪🇨 🇵🇱 🇨🇭 🇻🇳 🇦🇺 🇩🇰 🇲🇽 🇷🇴 🇹🇷 🇸🇬 🇺🇸 🇯🇵 🇸🇪 🇬🇧 🇷🇺 🇵🇹 🇨🇳 🇦🇹 🇪🇸 🇹🇼 🇲🇾 🇧🇪 
+
+&nbsp;
+
+___
+
+&nbsp;
+
+&nbsp;
+
+***Are you curious about how Brainstormer works?***
+
+&nbsp;
+
+Go ahead and [create a new brainstorm](https://www.app.brainstormer.online/brainstorms/new) 🧠
 
 
 
