@@ -1,5 +1,5 @@
 ---
-title: "Brainstorming around the world 🌏"
+title: "Brainstormers around the world 🌏"
 date: 2021-011-06T11:34:52+02:00
 draft: false
 ---
@@ -83,6 +83,8 @@ Here are some more resources about Brainstormer. Take a look! These are all real
 🇩🇪  [Uni Göttingen - ideas for media didactics](https://www.zess.uni-goettingen.de/mediendidaktik/2021/07/08/brainstormen-leicht-gemacht-mit-mindwendel/)
 
 🇩🇪  [Nele Hirsch: Edumail newsletter](https://www.getrevue.co/profile/ebildungslabor/issues/edumail-56-herausforderung-vor-ort-veranstaltung-ideen-fur-lernende-lehrende-und-methoden-zum-veranstaltungsabschluss-643893)
+
+🇰🇷 [Educational youtube channel](https://www.youtube.com/watch?v=jfQp0kixhxE)
 
 🇫🇷  [Blog du Prof T.I.M. - IT and multi media](https://blogs.lyceecfadumene.fr/informatique/2021/10/18/brainstormer-online-reflechir-en-equipe/)
 
