@@ -14,7 +14,7 @@ It makes me very happy to see people having productive brainstorming session and
 ## Video tutorials
 
 
-Just look at these video tutorials that facilitators from different parts of the world, all dedicated to sharing useful resources with their peers, have been producing. 
+Just look at these videos that facilitators from different parts of the world, all dedicated to sharing useful resources with their peers, have been producing. 
 
 &nbsp;
 
@@ -24,7 +24,7 @@ Just look at these video tutorials that facilitators from different parts of the
 
 &nbsp;
 
-Unfortunately I don't speak Korean, but luckily Youtube can translate automatically. This is a really nice walkthrough of how to use Brainstormer: 
+Unfortunately I don't understand Korean, but luckily Youtube can help with translating. This video gives a few examples of how brainstorming can solve problems in new and diverse ways. It also shows how to do exactly that in Brainstormer: 
 
 &nbsp;
 
@@ -54,7 +54,7 @@ This one is from Richard Byrne who's running an EdTech blog called [freetech4tea
 
 &nbsp;
 
-If you understand portuguise (I don't, but thank you Google Translate!), [the Onde eu Clico youtube channel](https://www.youtube.com/c/Ondeeuclico1) has some really useful technology tips for teachers of the future. 
+If you understand portuguise, [the Onde eu Clico youtube channel](https://www.youtube.com/c/Ondeeuclico1) has some really useful technology tips for teachers of the future. 
 
 &nbsp;
 
@@ -72,9 +72,9 @@ The creator of the channel found Brainstormer to be fitting for teachers of the 
 
 
 
-## Written reviews
+## More reviews
 
-Here are some of the articles written about Brainstormer. Take a look! These are all really interesting sources of inspiration for ways to use technology to learn together. 
+Here are some more resources about Brainstormer. Take a look! These are all really interesting sources of inspiration for ways to use technology to learn together. 
 
 &nbsp;
 
@@ -102,13 +102,15 @@ Coming up with ideas together is a universal way to learn. It's really not about
 
 &nbsp;
 
-Brainstormer has been used in all these corners of the world, and that is truly amazing! Keep asking questions and brainstorming answers!
+Brainstormer has been used in all these corners of the world, and that is truly amazing! 
+
+&nbsp;
+
+Keep asking questions and brainstorming answers!
 
 &nbsp;
 
 🇧🇷 🇨🇦 🇰🇷 🇩🇪 🇫🇷 🇮🇹 🇮🇳 🇹🇭 🇪🇨 🇵🇱 🇨🇭 🇻🇳 🇦🇺 🇩🇰 🇲🇽 🇷🇴 🇹🇷 🇸🇬 🇺🇸 🇯🇵 🇸🇪 🇬🇧 🇷🇺 🇵🇹 🇨🇳 🇦🇹 🇪🇸 🇹🇼 🇲🇾 🇧🇪 
-
-&nbsp;
 
 
 
