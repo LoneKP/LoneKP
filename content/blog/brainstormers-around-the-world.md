@@ -1,6 +1,7 @@
 ---
 title: "Brainstormers around the world 🌏"
 date: 2021-011-06T11:34:52+02:00
+description: "Reviews, video tutorials and articles are popping up about Brainstormer. Here is a quick look into what is being shared"
 draft: false
 ---
 Reviews, video tutorials and articles about [Brainstormer](https://www.brainstormer.online/) are popping up. 

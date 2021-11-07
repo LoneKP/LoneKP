@@ -1,8 +1,9 @@
 baseURL = "https://www.brainstormer.online"
 languageCode = "en-us"
-title = "Brainstormer.online"
+title = "Brainstormer"
 
 enableEmoji = true
+enableRobotsTXT = true
 
 [[menu.main]]
   name = "About"
