@@ -8,10 +8,21 @@ enableRobotsTXT = true
 [[menu.main]]
   name = "About"
   url = "/about"
+    [menu.main.params]
+    class = "bg-white"
 
 [[menu.main]]
   name = "Blog"
   url = "/blog"
+    [menu.main.params]
+    class = "bg-white" 
+
+[[menu.main]]
+  name = "Support"
+  url = "/support"
+  pre = "<i>☕</i>"
+  [menu.main.params]
+    class = "bg-yellowy" 
 
 [params]
     Description = "Easy facilitation of online brainstorming sessions"
