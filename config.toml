@@ -18,8 +18,8 @@ enableRobotsTXT = true
     class = "bg-white" 
 
 [[menu.main]]
-  name = "Support"
-  url = "/support"
+  name = "Buy me a coffee"
+  url = "/buy-me-a-coffee"
   pre = "<i>☕</i>"
   [menu.main.params]
     class = "bg-yellowy" 
