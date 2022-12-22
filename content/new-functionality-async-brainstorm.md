@@ -13,28 +13,6 @@ At first I thought that this is not exactly what I built the tool for, but I act
 
 &nbsp;
 
-### Brainstorm ideas for Brainstormer!
-
-For a while, I have been thinking about, how to make it easy as a brainstormer to submit suggestions for improvements and report bugs. 
-
-&nbsp;
-
-And maybe the perfect answer is to have an ongoing, open brainstorm where everyone can add feedback whenever!
-
-&nbsp;
-
-So, I decided to implement it 🏗️ 
-
-&nbsp;
-
-You can participate in the ongoing brainstorm through this link:
-
-&nbsp;
-
-[How may I help you get a better experience brainstorming with Brainstormer? ](https://www.brainstormer.online/BRAINd8b32f)
-
-&nbsp;
-
 ### How to make a brainstorm with no timer?
 
 &nbsp;
@@ -46,6 +24,8 @@ So - how does this new feature work?
 It's very easy to make a brainstorm without a timer. You just drag the slider all the way to the end, and you will get a brainstorm session that never ends!
 
 &nbsp;
+
+Keep in mind: If you need to access as a facilitator and be able to go to voting, you need to create the brainstorm when you are logged in as a user.
 
 &nbsp;
 
