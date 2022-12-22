@@ -31,7 +31,7 @@ You can participate in the ongoing brainstorm through this link:
 
 &nbsp;
 
-[How may I help you get a better experience brainstorming with Brainstormer? ](https://www.app.brainstormer.online/BRAINd8b32f)
+[How may I help you get a better experience brainstorming with Brainstormer? ](https://www.brainstormer.online/BRAINd8b32f)
 
 &nbsp;
 
