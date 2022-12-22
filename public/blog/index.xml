@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Brainstormer</title>
-    <link>https://www.brainstormer.online/blog/</link>
-    <description>Recent content in Blog on Brainstormer</description>
+    <title>Blog on Brainstormer | Blog </title>
+    <link>https://www.blog.brainstormer.online/blog/</link>
+    <description>Recent content in Blog on Brainstormer | Blog </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Jul 2021 12:54:52 +0200</lastBuildDate><atom:link href="https://www.brainstormer.online/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 10 Jul 2021 12:54:52 +0200</lastBuildDate><atom:link href="https://www.blog.brainstormer.online/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Are you missing anything? 👩‍💻</title>
-      <link>https://www.brainstormer.online/blog/are-you-missing-anything/</link>
+      <link>https://www.blog.brainstormer.online/blog/are-you-missing-anything/</link>
       <pubDate>Sat, 10 Jul 2021 12:54:52 +0200</pubDate>
       
-      <guid>https://www.brainstormer.online/blog/are-you-missing-anything/</guid>
+      <guid>https://www.blog.brainstormer.online/blog/are-you-missing-anything/</guid>
       <description>I have created Brainstormer to make it easier for YOU to facilitate brainstorms.
  Maybe you tried it out, and something is not quite fitting with how you would like to brainstorm.
  Well, let&amp;rsquo;s just create the tool as you would like it! There are several ways to how you can be a part of that.
@@ -21,10 +21,10 @@
     
     <item>
       <title>BRAINSTORMER IS OPEN SOURCE! 🎉</title>
-      <link>https://www.brainstormer.online/blog/brainstormer-is-open-source/</link>
+      <link>https://www.blog.brainstormer.online/blog/brainstormer-is-open-source/</link>
       <pubDate>Sun, 04 Jul 2021 12:54:52 +0200</pubDate>
       
-      <guid>https://www.brainstormer.online/blog/brainstormer-is-open-source/</guid>
+      <guid>https://www.blog.brainstormer.online/blog/brainstormer-is-open-source/</guid>
       <description>Brainstormer is all about ideas. And I am sure that everybody who uses Brainstormer has plenty of them.
  I want to invite everyone to join the development of this project.
  There are two ways for that to happen:
@@ -33,10 +33,10 @@
     
     <item>
       <title>Brainstormers around the world 🌏</title>
-      <link>https://www.brainstormer.online/blog/brainstormers-around-the-world/</link>
+      <link>https://www.blog.brainstormer.online/blog/brainstormers-around-the-world/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.brainstormer.online/blog/brainstormers-around-the-world/</guid>
+      <guid>https://www.blog.brainstormer.online/blog/brainstormers-around-the-world/</guid>
       <description>Reviews, video tutorials and articles about Brainstormer are popping up.
  It makes me very happy to see people having productive brainstorming session all around the world!
  Video tutorials Just look at these videos that facilitators from different parts of the world, all dedicated to sharing useful resources with their peers, have been producing.
@@ -45,10 +45,10 @@
     
     <item>
       <title>New functionality: Async brainstorming</title>
-      <link>https://www.brainstormer.online/blog/new-functionality-async-brainstorm/</link>
+      <link>https://www.blog.brainstormer.online/blog/new-functionality-async-brainstorm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.brainstormer.online/blog/new-functionality-async-brainstorm/</guid>
+      <guid>https://www.blog.brainstormer.online/blog/new-functionality-async-brainstorm/</guid>
       <description>A user of brainstormer asked me, if she could host a brainstorm, but have ideas coming in over a week.
  At first I thought that this is not exactly what I built the tool for, but I actually had a use case of my own in mind, so why not try it out.
  Brainstorm ideas for Brainstormer! For a while, I have been thinking about, how to make it easy as a brainstormer to submit suggestions for improvements and report bugs.</description>

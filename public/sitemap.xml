@@ -2,30 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.brainstormer.online/blog/are-you-missing-anything/</loc>
+    <loc>https://www.blog.brainstormer.online/are-you-missing-anything/</loc>
     <lastmod>2021-07-10T12:54:52+02:00</lastmod>
   </url><url>
-    <loc>https://www.brainstormer.online/blog/</loc>
+    <loc>https://www.blog.brainstormer.online/</loc>
     <lastmod>2021-07-10T12:54:52+02:00</lastmod>
   </url><url>
-    <loc>https://www.brainstormer.online/</loc>
-    <lastmod>2021-07-10T12:54:52+02:00</lastmod>
-  </url><url>
-    <loc>https://www.brainstormer.online/blog/brainstormer-is-open-source/</loc>
+    <loc>https://www.blog.brainstormer.online/brainstormer-is-open-source/</loc>
     <lastmod>2021-07-04T12:54:52+02:00</lastmod>
   </url><url>
-    <loc>https://www.brainstormer.online/about/</loc>
+    <loc>https://www.blog.brainstormer.online/brainstormers-around-the-world/</loc>
   </url><url>
-    <loc>https://www.brainstormer.online/blog/brainstormers-around-the-world/</loc>
+    <loc>https://www.blog.brainstormer.online/categories/</loc>
   </url><url>
-    <loc>https://www.brainstormer.online/buy-me-a-coffee/</loc>
+    <loc>https://www.blog.brainstormer.online/new-functionality-async-brainstorm/</loc>
   </url><url>
-    <loc>https://www.brainstormer.online/categories/</loc>
-  </url><url>
-    <loc>https://www.brainstormer.online/blog/new-functionality-async-brainstorm/</loc>
-  </url><url>
-    <loc>https://www.brainstormer.online/privacy-policy/</loc>
-  </url><url>
-    <loc>https://www.brainstormer.online/tags/</loc>
+    <loc>https://www.blog.brainstormer.online/tags/</loc>
   </url>
 </urlset>

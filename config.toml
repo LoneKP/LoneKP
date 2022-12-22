@@ -1,33 +1,14 @@
-baseURL = "https://www.brainstormer.online"
+baseURL = "https://www.blog.brainstormer.online"
 languageCode = "en-us"
-title = "Brainstormer"
+title = "Brainstormer | Blog "
 
 enableEmoji = true
 enableRobotsTXT = true
 
-[[menu.main]]
-  name = "About"
-  url = "/about"
-    [menu.main.params]
-    class = "bg-white"
-
-[[menu.main]]
-  name = "Blog"
-  url = "/blog"
-    [menu.main.params]
-    class = "bg-white" 
-
-[[menu.main]]
-  name = "Buy me a coffee"
-  url = "/buy-me-a-coffee"
-  pre = "<i>☕</i>"
-  [menu.main.params]
-    class = "bg-yellowy" 
-
 [params]
     Description = "Easy facilitation of online brainstorming sessions"
     Image = "/images/some_image.png"
-    sitename = "Brainstormer"
+    sitename = "Brainstormer | Blog"
 
 [languages]
   [languages.en]

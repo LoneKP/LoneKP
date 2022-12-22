@@ -1,8 +1,0 @@
-<div class="text-xs lg:text-base -mb-6 lg:-mb-2 mt-1 lg:mt-4 mr-2">
-  <div class="flex flex-row space-x-4 lg:space-x-8 justify-end lg:text-black text-black">
-    {{ $myPage := humanize .File.Dir }}
-    {{ range .Site.Menus.main }}
-    <a href="{{ .URL }}" class='{{ if eq $myPage .Name }} lg:bg-light-yellowy {{end}} {{ with .Params.class }}{{ . }} {{ end }} my-shadow-sm lg:hover:bg-light-yellowy lg:active:bg-dark-yellowy py-2 px-4 lg:py-0 lg:px-2'>{{ .Name }} {{ .Pre }}</a>
-    {{ end }}
-  </div>
-  </div>
