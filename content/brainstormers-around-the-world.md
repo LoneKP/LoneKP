@@ -128,7 +128,7 @@ ___
 
 &nbsp;
 
-Go ahead and [create a new brainstorm](https://www.app.brainstormer.online/brainstorms/new) 🧠
+Go ahead and [create a new brainstorm](https://www.brainstormer.online/brainstorms/new) 🧠
 
 
 
