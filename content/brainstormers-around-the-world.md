@@ -1,5 +1,5 @@
 ---
-title: "Tutorials from Brainstormers around the world 🌏"
+title: "Tutorials from around the world 🌏"
 date: 2021-011-06T11:34:52+02:00
 description: "A quick look into reviews, videos and tutorials that are being shared about Brainstormer"
 image: "images/brainstormers-around-the-world.jpg"
