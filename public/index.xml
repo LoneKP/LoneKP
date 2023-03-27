@@ -32,18 +32,6 @@
     </item>
     
     <item>
-      <title>Brainstormers around the world 🌏</title>
-      <link>https://www.blog.brainstormer.online/brainstormers-around-the-world/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.blog.brainstormer.online/brainstormers-around-the-world/</guid>
-      <description>Reviews, video tutorials and articles about Brainstormer are popping up.
- It makes me very happy to see people having productive brainstorming session all around the world!
- Video tutorials Just look at these videos that facilitators from different parts of the world, all dedicated to sharing useful resources with their peers, have been producing.
-  🇰🇷 - South Korea  Unfortunately I don&amp;rsquo;t understand Korean, but luckily Youtube can help with translating.</description>
-    </item>
-    
-    <item>
       <title>New functionality: Async brainstorming</title>
       <link>https://www.blog.brainstormer.online/new-functionality-async-brainstorm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -52,6 +40,18 @@
       <description>A user of brainstormer asked me, if she could host a brainstorm, but have ideas coming in over a week.
  At first I thought that this is not exactly what I built the tool for, but I actually had a use case of my own in mind, so why not try it out.
  How to make a brainstorm with no timer?  So - how does this new feature work?</description>
+    </item>
+    
+    <item>
+      <title>Tutorials from Brainstormers around the world 🌏</title>
+      <link>https://www.blog.brainstormer.online/brainstormers-around-the-world/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.blog.brainstormer.online/brainstormers-around-the-world/</guid>
+      <description>Reviews, video tutorials and articles about Brainstormer are popping up.
+ It makes me very happy to see people having productive brainstorming session all around the world!
+ Video tutorials Just look at these videos that facilitators from different parts of the world, all dedicated to sharing useful resources with their peers, have been producing.
+  🇰🇷 - South Korea  Unfortunately I don&amp;rsquo;t understand Korean, but luckily Youtube can help with translating.</description>
     </item>
     
   </channel>
